@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "name": "채널 A",
+      "url": "https://ichannela.com/news/main/news_main_renew.do",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": true,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    },
+    {
+      "name": "JTBC 뉴스",
+      "url": "https://news.jtbc.co.kr/",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": true,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    },
+    {
+      "name": "TBC SBS뉴스",
+      "url": "https://www.tbc.co.kr/",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": true,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    },
+    {
+      "name": "YTN 뉴스",
+      "url": "https://www.ytn.co.kr/",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": true,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    },
+    {
+      "name": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/main/main.html",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": true,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    },
+    {
+      "name": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/pc_main.html",
+      "source": "사용자 제공",
+      "added_at": "2026-11-06T22:29:58+09:00",
+      "status": false,
+      "checked_at": null,
+      "result_source": "사용자 제공",
+      "reason": "사용자가 제공한 결과 (앱 재검사 전)",
+      "logs": []
+    }
+  ]
+}
