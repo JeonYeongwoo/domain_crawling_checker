@@ -1,0 +1,4 @@
+# 한 줄에 도메인/URL 하나 또는 언론사 이름 : https://주소
+news.jtbc.co.kr
+https://www.ytn.co.kr/
+채널 A : https://ichannela.com/news/main/news_main_renew.do

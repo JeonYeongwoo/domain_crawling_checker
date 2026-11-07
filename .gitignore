@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+news_store.json
+news_store.json.tmp
+results.txt
+results.txt.tmp
+crawlable_domains.txt
+crawlable_domains.txt.tmp
+crawlable_urls.txt
+crawlable_urls.txt.tmp
+.env
+.env.*
+file_checks/
